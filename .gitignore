@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+venv/
+temp/
+groq_cache.json
+logs/
+*.pdf
+*.json
